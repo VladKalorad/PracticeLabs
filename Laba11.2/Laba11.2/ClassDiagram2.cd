@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba11._2.Car">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.Car.CarkEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Car\Car.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Laba11._2.Car.Input" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Car\Car.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAIAAEAAAAAAAAAAAAAAAAAAAEAEAQAAAAEQAEAAA=</HashCode>
+      <FileName>Car\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.LiteCar">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.LiteCar.LiteCarkEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Car\LiteCar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAEAAEAEAAAAIAAQAGAAA=</HashCode>
+      <FileName>Car\LiteCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Truck">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.Truck.TruckEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Car\Truck.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAFAMAgAQAAAQAEAAA=</HashCode>
+      <FileName>Car\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.CargoPlane">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.CargoPlane.CargoPlaneEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane\CargoPlane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAFAMAgAQAAAQAEAAA=</HashCode>
+      <FileName>Plane\CargoPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.PassagerPlane">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.PassagerPlane.PassagerPlaneEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane\PassagerPlane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAEAFAgAAAAAQAEAAA=</HashCode>
+      <FileName>Plane\PassagerPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Plane">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.Plane.PlaneEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane\Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAEAEAQAAAAEQAEAAA=</HashCode>
+      <FileName>Plane\Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.FreightTrain">
+    <Position X="12" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.FreightTrain.FreightTrainEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Train\FreightTrain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAFAMAgAQAAAQAEAAA=</HashCode>
+      <FileName>Train\FreightTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.PassagerTrain">
+    <Position X="8.75" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.PassagerTrain.PassagerTrainEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Train\PassagerTrain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAABAAAAAAAAAAEAFAAAAAAAQAEAAA=</HashCode>
+      <FileName>Train\PassagerTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Train">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Laba11._2.Train.TrainEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Train\Train.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAEAFAQAAAAEQAEAAA=</HashCode>
+      <FileName>Train\Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Transport" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAAAAAAAAABAAAEAQCAAAAAgQAAAAA=</HashCode>
+      <FileName>Transport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.EventArgs">
+    <Position X="17.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>EventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.FunctionsExeption">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionsExeption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.TransportArray">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEYAAEAAAAAAABQQCAgABAQAABAAAAAESAAAAABQIAA=</HashCode>
+      <FileName>TransportArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Laba11._2.ICloneable">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ICloneable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

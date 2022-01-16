@@ -1,0 +1,11 @@
+E:\Сдавать\l11.1\l11.1\bin\Debug\net48\l11.1.exe.config
+E:\Сдавать\l11.1\l11.1\bin\Debug\net48\l11.1.exe
+E:\Сдавать\l11.1\l11.1\bin\Debug\net48\l11.1.pdb
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.csproj.AssemblyReference.cache
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.csproj.SuggestedBindingRedirects.cache
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.AssemblyInfoInputs.cache
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.AssemblyInfo.cs
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.csproj.CoreCompileInputs.cache
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.exe
+E:\Сдавать\l11.1\l11.1\obj\Debug\net48\l11.1.pdb

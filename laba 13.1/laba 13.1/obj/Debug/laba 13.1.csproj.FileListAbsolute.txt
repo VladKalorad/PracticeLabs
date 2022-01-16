@@ -1,0 +1,7 @@
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\bin\Debug\laba 13.1.exe.config
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\bin\Debug\laba 13.1.exe
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\bin\Debug\laba 13.1.pdb
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\obj\Debug\laba 13.1.csproj.AssemblyReference.cache
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\obj\Debug\laba 13.1.csproj.CoreCompileInputs.cache
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\obj\Debug\laba 13.1.exe
+E:\ПрактикаЛабы\laba 13.1\laba 13.1\obj\Debug\laba 13.1.pdb

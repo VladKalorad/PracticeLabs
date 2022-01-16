@@ -1,0 +1,14 @@
+E:\ПрактикаЛабы\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.exe
+E:\ПрактикаЛабы\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.deps.json
+E:\ПрактикаЛабы\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.runtimeconfig.json
+E:\ПрактикаЛабы\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.runtimeconfig.dev.json
+E:\ПрактикаЛабы\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.dll
+E:\ПрактикаЛабы\laba11.1\laba11.1\bin\Debug\netcoreapp3.1\laba11.1.pdb
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.csproj.AssemblyReference.cache
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.AssemblyInfoInputs.cache
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.AssemblyInfo.cs
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.csproj.CoreCompileInputs.cache
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.dll
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.pdb
+E:\ПрактикаЛабы\laba11.1\laba11.1\obj\Debug\netcoreapp3.1\laba11.1.genruntimeconfig.cache

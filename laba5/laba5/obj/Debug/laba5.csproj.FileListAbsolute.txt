@@ -1,0 +1,7 @@
+E:\ПрактикаЛабы\laba5\laba5\bin\Debug\laba5.exe.config
+E:\ПрактикаЛабы\laba5\laba5\bin\Debug\laba5.exe
+E:\ПрактикаЛабы\laba5\laba5\bin\Debug\laba5.pdb
+E:\ПрактикаЛабы\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+E:\ПрактикаЛабы\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+E:\ПрактикаЛабы\laba5\laba5\obj\Debug\laba5.exe
+E:\ПрактикаЛабы\laba5\laba5\obj\Debug\laba5.pdb

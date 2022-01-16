@@ -1,0 +1,7 @@
+E:\ПрактикаЛабы\laba15.15\laba15.15\bin\Debug\laba15.15.exe.config
+E:\ПрактикаЛабы\laba15.15\laba15.15\bin\Debug\laba15.15.exe
+E:\ПрактикаЛабы\laba15.15\laba15.15\bin\Debug\laba15.15.pdb
+E:\ПрактикаЛабы\laba15.15\laba15.15\obj\Debug\laba15.15.csproj.AssemblyReference.cache
+E:\ПрактикаЛабы\laba15.15\laba15.15\obj\Debug\laba15.15.csproj.CoreCompileInputs.cache
+E:\ПрактикаЛабы\laba15.15\laba15.15\obj\Debug\laba15.15.exe
+E:\ПрактикаЛабы\laba15.15\laba15.15\obj\Debug\laba15.15.pdb

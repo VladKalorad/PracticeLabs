@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba11._2.Transport">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAAAAAAAAABAAAEAQCAAAAAgQAAAAA=</HashCode>
+      <FileName>Transport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Car">
+    <Position X="8.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAEAAAQAAAAEQAAAAA=</HashCode>
+      <FileName>Car\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Plane">
+    <Position X="2.5" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAEAAAQAAAAEQAAAAA=</HashCode>
+      <FileName>Plane\Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Train">
+    <Position X="5.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAAAEABAQAAAAEQAAAAA=</HashCode>
+      <FileName>Train\Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.LiteCar">
+    <Position X="14.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAEAAEAAAAAAIAAQACAAA=</HashCode>
+      <FileName>Car\LiteCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.Truck">
+    <Position X="11.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAFAIAgAQAAAQAAAAA=</HashCode>
+      <FileName>Car\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.FreightTrain">
+    <Position X="8.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAFAIAgAQAAAQAAAAA=</HashCode>
+      <FileName>Train\FreightTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.PassagerTrain">
+    <Position X="14.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAABAAAAAAAAAAEABAAAAAAAQAAAAA=</HashCode>
+      <FileName>Train\PassagerTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.CargoPlane">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAFAIAgAQAAAQAAAAA=</HashCode>
+      <FileName>Plane\CargoPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba11._2.PassagerPlane">
+    <Position X="19" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="Laba11._2.Plane" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="8.578" />
+        <Point X="4.969" Y="8.578" />
+        <Point X="4.969" Y="7.978" />
+        <Point X="17.145" Y="7.978" />
+        <Point X="17.145" Y="6.078" />
+        <Point X="18.667" Y="6.078" Type="JumpStart" />
+        <Point X="18.833" Y="6.078" Type="JumpEnd" />
+        <Point X="19" Y="6.078" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAEABAgAAAAAQAAAAA=</HashCode>
+      <FileName>Plane\PassagerPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
